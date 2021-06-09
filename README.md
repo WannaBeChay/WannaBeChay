@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
-**WannaBeChay/WannaBeChay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
+<!--
+**linhk9/linhk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Wellcome to **Chaylan** profile
+
+ [![WannaBeChay github stats](https://github-readme-stats.vercel.app/api?username=WannaBeChay&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeChay&langs_count=8&background-color: #FAD961;
+background-image: linear-gradient(23deg, #FAD961 0%, #F76B1C 100%);
+&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeChay&langs_count=8&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
