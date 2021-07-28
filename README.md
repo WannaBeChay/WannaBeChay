@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Wellcome to **Chaylan** profile
+# Welcome to **Chaylan** profile
 
  [![WannaBeChay github stats](https://github-readme-stats.vercel.app/api?username=WannaBeChay&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
 
