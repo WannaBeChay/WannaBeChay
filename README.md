@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <p>
-    <img src="https://media.tenor.com/agicMbnE7C8AAAAC/military.gif" width="400px" height="200px">
+    <img src="https://i.pinimg.com/originals/59/71/2e/59712ec2dd36cb93fb1de45be004464a.gif">
   </p>
 </div>
 
@@ -15,7 +15,6 @@
         alt="Steam"></a>
   </p>
 </div>
-
 <br>
 
 <div>
@@ -29,18 +28,6 @@
   </p>
 </div>
 
-<br>
-
-<div>
-  <h2 align="center">IDEs & Tools</h1>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio">
-  </p>
-</div>
-
-<br>
-
 <div>
   <h2 align="center">Support Me!</h1>
   <br>
@@ -48,6 +35,3 @@
         src="hhttps://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
         alt="kofi" width="200" /></a></p>
 </div>
- [![WannaBeChay github stats](https://github-readme-stats.vercel.app/api?username=WannaBeChay&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeChay&langs_count=8&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
