@@ -28,7 +28,11 @@
   </p>
 </div>
 
+<div align="center"
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaBeChay&langs_count=8&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <div>
   <h2 align="center">Support Me!</h1>
