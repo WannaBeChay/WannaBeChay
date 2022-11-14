@@ -32,6 +32,6 @@
   <h2 align="center">Support Me!</h1>
   <br>
   <p align="center"><a href="https://ko-fi.com/chaylann"> <img
-        src="hhttps://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
+        src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"
         alt="kofi" width="200" /></a></p>
 </div>
