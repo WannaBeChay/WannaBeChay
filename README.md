@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <p>
-    <img src="https://media.tenor.com/agicMbnE7C8AAAAC/military.gif" width="500px" height="100px">
+    <img src="https://media.tenor.com/agicMbnE7C8AAAAC/military.gif" width="400px" height="200px">
   </p>
 </div>
 
